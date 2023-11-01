@@ -80,4 +80,11 @@ Pronto agora você volta ao primeiro terminal, PRODUCER, e digite o que quiser e
 
 # Funcionamento:
 
-<img src="">
+## Producer:
+
+<img src="https://github.com/gaebizinha/Atividade-Afonso-Docker/blob/main/imagens/Captura%20de%20tela%202023-11-01%20143101.png">
+
+## Consumer:
+
+<img src="https://github.com/gaebizinha/Atividade-Afonso-Docker/blob/main/imagens/Captura%20de%20tela%202023-11-01%20143149.png">
+
