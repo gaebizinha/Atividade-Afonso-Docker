@@ -18,7 +18,7 @@ Fila:
 - A fila é o local onde as mensagens produzidas pelos produtores são armazenadas temporariamente.
 - Os consumidores retiram as mensagens da fila conforme necessário.
 
-1. Consumidor:
+Consumidor:
     - O consumidor é uma entidade ou componente que retira mensagens da fila e processa essas mensagens.
 
 Um exemplo comum de uso do modelo Produtor/Consumidor é em sistemas de filas de mensagens, como Apache Kafka ou RabbitMQ.
