@@ -19,7 +19,7 @@ Fila:
 - Os consumidores retiram as mensagens da fila conforme necessário.
 
 Consumidor:
-    - O consumidor é uma entidade ou componente que retira mensagens da fila e processa essas mensagens.
+- O consumidor é uma entidade ou componente que retira mensagens da fila e processa essas mensagens.
 
 Um exemplo comum de uso do modelo Produtor/Consumidor é em sistemas de filas de mensagens, como Apache Kafka ou RabbitMQ.
 
