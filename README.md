@@ -76,3 +76,8 @@ Um exemplo comum de uso do modelo Produtor/Consumidor é em sistemas de filas de
     
 
 Pronto agora você volta ao primeiro terminal, PRODUCER, e digite o que quiser e clique em enter, assim você pode mudar para o outro terminal cridado, no caso o CONSUMER, e visualizar a mensagem criada.
+
+
+# Funcionamento:
+
+<img src="">
