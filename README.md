@@ -60,17 +60,7 @@ Um exemplo comum de uso do modelo Produtor/Consumidor é em sistemas de filas de
     docker exec -it atividade-afonso-docker-kafka-1 /opt/kafka/bin/kafka-topics.sh --create --topic test-topic --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
     ```
     
-    <aside>
-    <img src="https://www.notion.so/icons/question-mark_gray.svg" alt="https://www.notion.so/icons/question-mark_gray.svg" width="40px" /> Caso apareça o seguinte erro:
-    
-    Error while executing topic command : Topic 'test-topic' already exists.
-    [2023-11-01 13:43:47,496] ERROR org.apache.kafka.common.errors.TopicExistsException: Topic 'test-topic' already exists.
-    
-    (kafka.admin.TopicCommand$)
-    
-    Não se preocupe, ela só está notificando que já existe o tópico e pode desconsidera-lá e siga para o próximo passo.
-    
-    </aside>
+
     
 6. Por fim, para criar o PRODUCER escreva o seguinte comando:
     
